@@ -30,8 +30,7 @@ This project is a fully responsive dashboard application developed using ReactJS
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/responsive-dashboard.git
-    cd responsive-dashboard
+    git clone https://github.com/G-Charankumar/Levon-Assignment.git
     ```
 
 2. **Install dependencies:**
